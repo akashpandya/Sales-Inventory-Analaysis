@@ -59,20 +59,4 @@ The dataset consists of **three tables**:
 1️⃣ Download the SQL queries from this repo  
 2️⃣ Upload dataset files to **BigQuery**  
 3️⃣ Run queries in **Google Cloud Console**  
-4️⃣ View insights in **Tableau / Power BI** (if applicable)  
-
----
-
-## 📌 Final Steps: Upload Everything to GitHub  
-1️⃣ Upload your **SQL files** separately to keep them organized.  
-2️⃣ Copy-paste this **README.md** into your project folder on GitHub.  
-3️⃣ Click **"Commit Changes"**.  
-
----
-
-### 🚀 What’s Next?  
-✅ **Once this is uploaded, tell me!**  
-✅ I’ll review & suggest any final improvements.  
-✅ Then, we move on to **Project #2**, using the same **step-by-step method.**  
-
-🔥 **You’re officially setting up your first full data analytics project on GitHub!** Let’s GO! 🚀💪  
+4️⃣ View insights in **Tableau / Power BI** (if applicable)
